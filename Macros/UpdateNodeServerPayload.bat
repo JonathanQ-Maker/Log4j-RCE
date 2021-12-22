@@ -1,0 +1,1 @@
+javac ../NodeServer/payloads/Payload.java
